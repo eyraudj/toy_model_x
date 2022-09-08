@@ -1,6 +1,7 @@
 # Exchange Simulation
 
-Description of the solution. See below the original [technical assignement](./README.md#Technical Assignment)
+Description of the solution. See below the original [assignement](#Assignment).
+
 The 4 components have been implemented as expected.
 On top of that, the market object and the run_exchange script have been implemented.
 
@@ -102,9 +103,8 @@ This is the bottleneck of the algo.
 
 Below, for reference, the technical assignment.
 
----
 
-# Technical Assignment
+# Assignment
 
 ## Introduction
 In this assignment, the goal is to build a prototype of an exchange, with its basic functionality. In the essence, an exchange has the capabilities of:
