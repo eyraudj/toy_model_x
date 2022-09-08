@@ -1,10 +1,10 @@
 # Exchange Simulation
 
-Description of the solution.
+Description of the solution. See below the original [technical assignement](./README.md#Technical Assignment)
 The 4 components have been implemented as expected.
-On top of that the market object and the run_exchange script have been implemented.
+On top of that, the market object and the run_exchange script have been implemented.
 
-The prices and quantitys have been assumed to be integers instead of decimals.
+The prices and quantities have been assumed to be integers instead of decimals.
 
 ## Run Exchange
 It is the main entry point. Either via console input or file input.
